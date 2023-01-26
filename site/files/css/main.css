@@ -2,10 +2,10 @@ body{
   text-align: center;
 }
 .mainbg {
-    position: absolute;
     width: 100%;
     height: 100%;
     left: 0px;
+    bottom: 0px;
     top: 0px;
     background: #c1e8f7;
         }
@@ -77,6 +77,4 @@ a:hover{
 }
 
 footer{
-  margin-top: 0rem;
-  margin-bottom: 0rem;  
-  background-color: #c1e8f7;
+  background: #c1e8f7;
